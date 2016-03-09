@@ -1,0 +1,4 @@
+class   : KecepatanWaktu,
+Atribut :NIM,jumlahPutaran,jumlah_waktu,waktuTercepat,hitungJarak,keliling,panjang, dan lebar.
+Method  :HitungWaktu,hitungJarak,waktuTercepat,DisplayMessage,displayNama
+Object  :m
